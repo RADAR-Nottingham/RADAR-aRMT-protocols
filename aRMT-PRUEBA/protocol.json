@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "schemaVersion": "0.0.2",
-  "name": "aRMT PRUEBA",
+  "name": "aRMT Test",
   "healthIssues": [
     "depression"
   ],
@@ -10,7 +10,7 @@
       "name": "PHQ8",
       "showIntroduction": false,
       "questionnaire": {
-        "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
         "name": "phq8",
         "avsc": "questionnaire"
       },
@@ -58,6 +58,6 @@
           "repeat": 1
         }
       }
-    }
+    } 
   ]
 }
