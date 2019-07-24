@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "schemaVersion": "0.0.2",
   "name": "UNFOLD",
   "healthIssues": [
@@ -38,22 +38,61 @@
         "de": "",
         "es": ""
       },
-      "estimatedCompletionTime": 3,
+      "estimatedCompletionTime": 2,
       "protocol": {
         "repeatProtocol": {
-          "unit": "day",
-          "amount": 7
+          "unit": "month",
+          "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            480
+            460,
+			      550,
+						640,
+			      730,
+            820,
+            910,
+            1000,
+            1090,
+            1180,
+            1270,
+            1900,
+            1990,
+            2080,
+            2170,
+            2260,
+            2350,
+            2440,
+            2530,
+            2620,
+            2710,
+            3340,
+            3430,
+            3520,
+            3610,
+            3700,
+            3790,
+            3880,
+            3970,
+            4060,
+            4150,
+            4780,
+            4870,
+            4960,
+            5050,
+            5140,
+            5230,
+            5320,
+            5410,
+            5500,
+            5590
           ]
         },
         "reminders": {
-          "unit": "day",
+          "unit": "min",
           "amount": 4,
-          "repeat": 1
+          "repeat": 2
         }
       }
     }, {
@@ -91,19 +130,58 @@
       "estimatedCompletionTime": 3,
       "protocol": {
         "repeatProtocol": {
-          "unit": "day",
-          "amount": 7
+          "unit": "month",
+          "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            510
+            480,
+            570,
+            660,
+            750,
+            840,
+            930,
+            1020,
+            1110,
+            1200,
+            1290,
+            1920,
+            2010,
+            2100,
+            2190,
+            2280,
+            2370,
+            2460,
+            2550,
+            2640,
+            2730,
+            3360,
+            3450,
+            3540,
+            3630,
+            3720,
+            3810,
+            3900,
+            3990,
+            4080,
+            4170,
+            4800,
+            4890,
+            4980,
+            5070,
+            5160,
+            5250,
+            5340,
+            5430,
+            5520,
+            5610
           ]
         },
         "reminders": {
-          "unit": "day",
+          "unit": "min",
           "amount": 4,
-          "repeat": 1
+          "repeat": 2
         }
       }
     }, {
@@ -138,16 +216,25 @@
         "de": "",
         "es": ""
       },
-      "estimatedCompletionTime": 7,
+      "estimatedCompletionTime": 2,
       "protocol": {
         "repeatProtocol": {
-          "unit": "day",
-          "amount": 14
+          "unit": "month",
+          "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            1890,
+            540,
+            630,
+            720,
+            810,
+            900,
+            990,
+            1080,
+            1170,
+            1260,
+            1350,
             1980,
             2070,
             2160,
@@ -156,7 +243,8 @@
             2430,
             2520,
             2610,
-            3330,
+            2700,
+            2790,
             3420,
             3510,
             3600,
@@ -165,7 +253,8 @@
             3870,
             3960,
             4050,
-            4770,
+            4140,
+            4230,
             4860,
             4950,
             5040,
@@ -174,39 +263,14 @@
             5310,
             5400,
             5490,
-            6210,
-            6300,
-            6390,
-            6480,
-            6570,
-            6660,
-            6750,
-            6840,
-            6930,
-            7650,
-            7740,
-            7830,
-            7920,
-            8010,
-            8100,
-            8190,
-            8280,
-            8370,
-            9090,
-            9180,
-            9270,
-            9360,
-            9450,
-            9540,
-            9630,
-            9720,
-            9810
+            5580,
+            5670
           ]
         },
         "reminders": {
-          "unit": "day",
-          "amount": 0,
-          "repeat": 0
+          "unit": "min",
+          "amount": 4,
+          "repeat": 2
         }
       }
     }
