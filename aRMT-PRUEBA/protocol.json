@@ -48,6 +48,8 @@
           "unit": "min",
           "unitsFromZero": [
             510,
+            1950,
+            3390
           ]
         },
         "reminders": {
