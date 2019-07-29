@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "schemaVersion": "0.0.2",
   "name": "UNFOLD",
   "healthIssues": [
@@ -41,7 +41,7 @@
       "estimatedCompletionTime": 2,
       "protocol": {
         "repeatProtocol": {
-          "unit": "month",
+          "unit": "day",
           "amount": 1
         },
         "repeatQuestionnaire": {
@@ -92,7 +92,7 @@
       "estimatedCompletionTime": 3,
       "protocol": {
         "repeatProtocol": {
-          "unit": "month",
+          "unit": "day",
           "amount": 1
         },
         "repeatQuestionnaire": {
@@ -143,7 +143,7 @@
       "estimatedCompletionTime": 2,
       "protocol": {
         "repeatProtocol": {
-          "unit": "month",
+          "unit": "day",
           "amount": 1
         },
         "repeatQuestionnaire": {
