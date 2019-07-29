@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "schemaVersion": "0.0.2",
   "name": "UNFOLD",
   "healthIssues": [
@@ -47,8 +47,7 @@
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            460,
-	    550
+            460
           ]
         },
         "reminders": {
@@ -98,8 +97,7 @@
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            480,
-            570
+            480
           ]
         },
         "reminders": {
@@ -149,8 +147,7 @@
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            540,
-            630
+            540
           ]
         },
         "reminders": {
