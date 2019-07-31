@@ -11,7 +11,7 @@
       "showIntroduction": false,
       "questionnaire": {
         "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
-        "name": "phq8",
+        "name": "esm",
         "avsc": "questionnaire"
       },
       "startText": {
