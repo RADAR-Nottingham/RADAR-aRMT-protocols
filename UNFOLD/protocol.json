@@ -47,13 +47,13 @@
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-           895
+           905
           ]
         },
         "reminders": {
           "unit": "min",
           "amount": 4,
-          "repeat": 3
+          "repeat": 2
         },
         "completionWindow": {
           "unit": "min",
