@@ -47,8 +47,7 @@
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-            810,
-            815
+            818
           ]
         },
         "reminders": {
