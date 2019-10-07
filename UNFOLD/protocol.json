@@ -52,6 +52,8 @@
             700,
             780,
             860,
+            880,
+            900,
             940,
             1020,
             1100,
@@ -92,7 +94,7 @@
         "reminders": {
           "unit": "min",
           "amount": 4,
-          "repeat": 2
+          "repeat": 3
         },
         "completionWindow": {
           "unit": "min",
