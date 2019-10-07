@@ -94,7 +94,7 @@
         "reminders": {
           "unit": "min",
           "amount": 4,
-          "repeat": 3
+          "repeat": 1
         },
         "completionWindow": {
           "unit": "min",
