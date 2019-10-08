@@ -1,5 +1,5 @@
 {
-  "version": "0.0.11",
+  "version": "0.0.10",
   "schemaVersion": "0.0.2",
   "name": "UNFOLD",
   "healthIssues": [
@@ -51,7 +51,7 @@
             620,
             700,
             780,
-            837,
+            840,
             860,
             940,
             1020,
