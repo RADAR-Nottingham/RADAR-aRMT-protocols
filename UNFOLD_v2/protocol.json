@@ -89,11 +89,6 @@
           5580
           ]
         },
-        "reminders": {
-          "unit": "min",
-          "amount": 5,
-          "repeat": 2
-        },
         "completionWindow": {
           "unit": "min",
           "amount": 15
