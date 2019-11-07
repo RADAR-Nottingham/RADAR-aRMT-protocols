@@ -1,0 +1,99 @@
+{
+  "version": "0.0.2",
+  "schemaVersion": "0.0.2",
+  "name": "UNFOLD_TRAINING",
+  "healthIssues": [
+    "depression"
+  ],
+  "protocols": [
+    {
+      "name": "UNFOLD_QUESTIONNAIRE",
+      "showIntroduction": false,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "esm",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "Thank you for taking part in this focus group.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "endText": {
+        "en": "Thank you for taking the time today.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 4,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "month",
+          "amount": 1
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+          540,
+          620,
+          700,
+          780,
+          860,
+          940,
+          1020,
+          1100,
+          1180,
+          1260,
+          1980,
+          2060,
+          2140,
+          2220,
+          2300,
+          2380,
+          2460,
+          2540,
+          2620,
+          2700,
+          3420,
+          3500,
+          3580,
+          3660,
+          3740,
+          3820,
+          3900,
+          3980,
+          4060,
+          4140,
+          4860,
+          4940,
+          5020,
+          5100,
+          5180,
+          5260,
+          5340,
+          5420,
+          5500,
+          5580
+          ]
+        },
+        "completionWindow": {
+          "unit": "min",
+          "amount": 15
+        }
+      }
+    }
+  ]
+}
