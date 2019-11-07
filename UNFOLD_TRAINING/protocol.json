@@ -41,18 +41,50 @@
       "estimatedCompletionTime": 4,
       "protocol": {
         "repeatProtocol": {
-          "unit": "min",
-          "amount": 10
+          "unit": "day",
+          "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
           "unitsFromZero": [
-          540
+          540,
+          555,
+          570,
+          585,
+          600,
+          615,
+          630,
+          645,
+          660,
+          675,
+          690,
+          705,
+          720,
+          735,
+          750,
+          765,
+          780,
+          795,
+          810,
+          825,
+          840,
+          855,
+          870,
+          885,
+          900,
+          915,
+          930,
+          945,
+          960,
+          975,
+          990,
+          1005,
+          1020
           ]
         },
         "completionWindow": {
           "unit": "min",
-          "amount": 10
+          "amount": 15
         }
       }
     }
