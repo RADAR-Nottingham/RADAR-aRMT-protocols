@@ -49,7 +49,7 @@
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [644, 680, 1016, 1352, 1688]
+          "unitsFromZero": [651, 680, 1016, 1352, 1688]
         },
         "reminders": {
           "unit": "hour",
