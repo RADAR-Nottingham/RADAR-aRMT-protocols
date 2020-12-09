@@ -7,18 +7,18 @@
   ],
   "protocols": [
   {
-      "name": "ART COVID-19 FOLLWOWUP",
+      "name": "MOOD MONITORING",
       "showIntroduction": false,
       "showInCalendar": true,
       "isDemo": false,
       "order": 3,
       "questionnaire": {
         "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
-        "name": "art_covid19_followup",
+        "name": "rses",
         "avsc": "questionnaire"
       },
       "startText": {
-        "en": "",
+        "en": "Thank you for taking part in this focus group.",
         "it": "",
         "nl": "",
         "da": "",
@@ -26,7 +26,7 @@
         "es": ""
       },
       "endText": {
-        "en": "",
+        "en": "Thank you for taking the time today.",
         "it": "",
         "nl": "",
         "da": "",
@@ -44,28 +44,23 @@
       "estimatedCompletionTime": 3,
       "protocol": {
         "repeatProtocol": {
-          "unit": "year",
-          "amount": 9999
+          "unit": "day",
+          "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [720, 680, 1016, 1352, 1688]
-        },
-        "reminders": {
-          "unit": "hour",
-          "amount": 28,
-          "repeat": 2
+          "unitsFromZero": [810]
         },
         "completionWindow": {
-          "unit": "day",
-          "amount": 3
+          "unit": "min",
+          "amount": 15
         },
         "notification": {
           "title": {
             "en": "Questionnaire time"
           },
           "text": {
-            "en": "Please finish them within 3 days. If you already finished them all, please ignore this notification."
+            "en": "Please finish them within 15 minutes."
           }
         }
       }
