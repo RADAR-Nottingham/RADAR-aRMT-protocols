@@ -49,7 +49,7 @@
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [1005]
+          "unitsFromZero": [720, 1200]
         },
         "completionWindow": {
           "unit": "min",
@@ -103,12 +103,12 @@
       "estimatedCompletionTime": 3,
       "protocol": {
         "repeatProtocol": {
-          "unit": "day",
+          "unit": "week",
           "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [880]
+          "unitsFromZero": [3720]
         },
         "completionWindow": {
           "unit": "min",
