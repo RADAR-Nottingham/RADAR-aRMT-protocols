@@ -100,15 +100,15 @@
         "de": "",
         "es": ""
       },
-      "estimatedCompletionTime": 3,
+      "estimatedCompletionTime": 10,
       "protocol": {
         "repeatProtocol": {
-          "unit": "day",
+          "unit": "week",
           "amount": 1
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [796]
+          "unitsFromZero": [910]
         },
         "completionWindow": {
           "unit": "min",
