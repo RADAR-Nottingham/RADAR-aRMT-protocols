@@ -53,14 +53,14 @@
         },
         "completionWindow": {
           "unit": "min",
-          "amount": 15
+          "amount": 120
         },
         "notification": {
           "title": {
             "en": "Questionnaire time"
           },
           "text": {
-            "en": "Please finish them within 15 minutes."
+            "en": "Please finish them within 2 hours."
           }
         }
       }
@@ -112,14 +112,14 @@
         },
         "completionWindow": {
           "unit": "min",
-          "amount": 15
+          "amount": 120
         },
         "notification": {
           "title": {
             "en": "Questionnaire time"
           },
           "text": {
-            "en": "Please finish them within 15 minutes."
+            "en": "Please finish them within 2 hours."
           }
         }
       }
