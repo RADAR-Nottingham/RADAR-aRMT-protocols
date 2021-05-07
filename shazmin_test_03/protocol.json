@@ -14,7 +14,7 @@
       "order": 3,
       "questionnaire": {
         "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
-        "name": "phq8",
+        "name": "esm",
         "avsc": "questionnaire"
       },
       "startText": {
@@ -74,7 +74,7 @@
       "order": 3,
       "questionnaire": {
         "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
-        "name": "esm",
+        "name": "phq8",
         "avsc": "questionnaire"
       },
       "startText": {
