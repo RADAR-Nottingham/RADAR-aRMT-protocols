@@ -6,65 +6,6 @@
     "depression"
   ],
   "protocols": [
-    {
-      "name": "MEDI",
-      "showIntroduction": false,
-      "showInCalendar": true,
-      "isDemo": false,
-      "order": 3,
-      "questionnaire": {
-        "repository": "https://raw.githubusercontent.com/RADAR-Nottingham/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
-        "name": "esm",
-        "avsc": "questionnaire"
-      },
-      "startText": {
-        "en": "Thank you for taking part in this focus group.",
-        "it": "",
-        "nl": "",
-        "da": "",
-        "de": "",
-        "es": ""
-      },
-      "endText": {
-        "en": "Thank you for taking the time today.",
-        "it": "",
-        "nl": "",
-        "da": "",
-        "de": "",
-        "es": ""
-      },
-      "warn": {
-        "en": "",
-        "it": "",
-        "nl": "",
-        "da": "",
-        "de": "",
-        "es": ""
-      },
-      "estimatedCompletionTime": 3,
-      "protocol": {
-        "repeatProtocol": {
-          "unit": "day",
-          "amount": 1
-        },
-        "repeatQuestionnaire": {
-          "unit": "min",
-          "unitsFromZero": [720]
-        },
-        "completionWindow": {
-          "unit": "min",
-          "amount": 120
-        },
-        "notification": {
-          "title": {
-            "en": "Questionnaire time"
-          },
-          "text": {
-            "en": "Please finish them within 2 hours."
-          }
-        }
-      }
-    },
     
     {
       "name": "MEDI2",
@@ -109,7 +50,7 @@
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [1200]
+          "unitsFromZero": [1320]
         },
         "completionWindow": {
           "unit": "min",
@@ -169,7 +110,7 @@
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [3840]
+          "unitsFromZero": [4080]
         },
         "completionWindow": {
           "unit": "min",
