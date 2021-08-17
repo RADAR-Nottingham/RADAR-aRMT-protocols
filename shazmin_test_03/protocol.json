@@ -108,7 +108,7 @@
         },
         "repeatQuestionnaire": {
           "unit": "min",
-          "unitsFromZero": [880]
+          "unitsFromZero": [1200]
         },
         "completionWindow": {
           "unit": "min",
